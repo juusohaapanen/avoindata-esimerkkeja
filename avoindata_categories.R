@@ -1,6 +1,6 @@
 #Hakee avoindata.net APIn kautta kategoriat ja niiden kysymysmäärät
 #Äärimmäisen yksinkertainen esimerkki.
-#Tekijänoikeus: Ju
+#Tekijänoikeus: Juuso Haapanen
 
 
 library(rjson)
